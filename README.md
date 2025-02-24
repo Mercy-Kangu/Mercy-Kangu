@@ -1,6 +1,7 @@
 **Hello!👋  Welcome to my GitHub profile! 💡**
 
 **#About me**
+
 🌟 My name is **Kangu N. Mercy**
 🎓 I am a **Supply Chain Management Graduate**
 💻 I am a tech enthusiast currently enrolled in a Computer Programmming class and I am thrilled to get to understand the language of machines
